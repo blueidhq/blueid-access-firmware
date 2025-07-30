@@ -1,0 +1,44 @@
+{
+  "DoorHandleLock": [
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 7,
+      "url": "https://storage.serwell.com/workspace/65080193d33785e9486b0f64/documentation/tHga0TQm.z00"
+    },
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 13,
+      "url": "https://github.com/blueidhq/blueid-access-firmware/blob/main/CX2172_edh_Cpv_HW2_4_4_FW2_9_13_FWINT63_20250725.z00"
+    }
+  ],
+  "WallReader": [
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 7,
+      "url": "https://storage.serwell.com/workspace/65080193d33785e9486b0f64/documentation/ULJadWFf.z00"
+    },
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 13,
+      "url": "https://github.com/blueidhq/blueid-access-firmware/blob/main/CX2132_wl_CPV_HW3_8_1_FW2_9_13_FWINT78_20250725.z00"
+    }
+  ],
+  "CylinderLock": [
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 7,
+      "url": "https://storage.serwell.com/workspace/65080193d33785e9486b0f64/documentation/9echPD5H.z00"
+    },
+    {
+      "major": 2,
+      "minor": 9,
+      "build": 13,
+      "url": "https://github.com/blueidhq/blueid-access-firmware/blob/main/CX2120_mtk_CPV_HW2_6_5_FW2_9_13_FWINT132_20250725.z00"
+    }
+  ]
+}
