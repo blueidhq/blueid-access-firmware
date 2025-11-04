@@ -24,8 +24,8 @@
     {
       "major": 2,
       "minor": 9,
-      "build": 13,
-      "url": "https://raw.githubusercontent.com/blueidhq/blueid-access-firmware/main/avrs/wl/CX2132_wl_CPV_HW3_8_1_FW2_9_13_FWINT78_20250821.z00"
+      "build": 15,
+      "url": "https://raw.githubusercontent.com/blueidhq/blueid-access-firmware/main/avrs/wl/CX2132_wl_CPV_HW3_8_1_FW2_9_15_FWINT78_20250925.z00"
     }
   ],
   "CylinderLock": [
